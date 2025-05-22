@@ -1,6 +1,7 @@
 {
     //"build": { "dockerfile": "Dockerfile" }
 	// Configure tool-specific properties.
+	"image": "mcr.microsoft.com/devcontainers/base:bookworm",
 	"customizations": {
 		// Configure properties specific to VS Code.
 		"vscode": {
